@@ -1,0 +1,16 @@
+com/qarmy/qa/models/builder/UserBuilder.java
+ com.qarmy.qa.models.builder.UserBuilder
+com/qarmy/qa/tasks/Login.java
+ com.qarmy.qa.tasks.Login
+com/qarmy/qa/models/User.java
+ com.qarmy.qa.models.User
+com/qarmy/qa/utils/drivers/MyAndroidDriver.java
+ com.qarmy.qa.utils.drivers.MyAndroidDriver
+com/qarmy/qa/userinterfaces/LoginUI.java
+ com.qarmy.qa.userinterfaces.LoginUI
+com/qarmy/qa/utils/drivers/Builder.java
+ com.qarmy.qa.utils.drivers.Builder
+com/qarmy/qa/userinterfaces/Products.java
+ com.qarmy.qa.userinterfaces.Products
+com/qarmy/qa/questions/TheTitle.java
+ com.qarmy.qa.questions.TheTitle
